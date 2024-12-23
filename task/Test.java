@@ -13,5 +13,10 @@ public class Test {
 		String str=s.substring(0,2).toUpperCase()+s.substring(2);
 		System.out.println(str);
 		
+		System.out.println("!!!");
+		
+		System.out.println("@@@");
+		
+		
 	}
 }
