@@ -5,6 +5,7 @@ public class Java2 extends Java1{
 	public Java2(String b) {
 		
 		System.out.println("value");
+		System.out.println("test gitpush 4");
 	}
 	
 	public Java2() {

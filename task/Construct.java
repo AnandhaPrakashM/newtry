@@ -5,6 +5,7 @@ public class Construct {
 	
 		  public Construct(int a) {
 		    System.out.println("Super class");
+			System.out.println("test gitpush @@@@");
 		  }
 		  
 		  public void value() {
