@@ -21,8 +21,9 @@ public class EncapList {
 		{
 			System.out.println(l.get(i).getA());
 			System.out.println(l.get(i).getB());
-			System.out.println(l.get(i).getS());
-		}
+			System.out.println(l.get(i).getS());		
+			System.out.println("test gitpush 1");
+}
 	}
 
 }
