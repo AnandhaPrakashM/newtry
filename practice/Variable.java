@@ -22,6 +22,7 @@ public class Variable {
 		Variable c1= new Variable();
 		
 		c1.test();
+		System.out.println("testing git rebase");
 		
 	}
 	
