@@ -4,6 +4,7 @@ public class Java1 {
 		public Java1() {
 	
 	System.out.println("default of parent");
+	System.out.println("test gitpush 3");
 	}
 	
 	public Java1(String name) {
